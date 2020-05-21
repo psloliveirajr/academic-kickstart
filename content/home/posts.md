@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
 title = "Recent Posts"
 subtitle = ""
@@ -49,7 +49,7 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
+  # radient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.

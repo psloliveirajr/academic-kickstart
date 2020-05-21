@@ -35,7 +35,7 @@ tags:
 - Earthquakes
 - Computacional Model
 
-title: "Poster: Introdução de Características de Mundo Pequeno no Modelo Olami-Feder-Christensen"
+title: "Poster: Introduction of Small World Characteristics in the Olami-Feder-Christensen Model"
 url_code: ""
 url_pdf: ""
 url_slides: ""

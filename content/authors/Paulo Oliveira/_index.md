@@ -27,7 +27,7 @@ social:
   link: https://scholar.google.com.br/citations?user=3zhND18AAAAJ&hl=pt-BR&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/psoliveirajr
+  link: https://github.com/psloliveirajr
 superuser: true
 title: Paulo S. L. Oliveira Jr.
 user_groups:
