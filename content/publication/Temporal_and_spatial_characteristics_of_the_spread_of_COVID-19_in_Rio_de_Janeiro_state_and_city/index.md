@@ -24,6 +24,15 @@ projects:
 publication: ""
 publication_short: ""
 publication_types:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Preprint / Working Paper
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+# 7 = Thesis (v4.2+ required)
+# 8 = Patent (v4.2+ required)
 - "3"
 
 publishDate: "2020-05-19T00:00:00Z"

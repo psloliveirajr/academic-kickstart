@@ -23,7 +23,16 @@ projects:
 publication: ""
 publication_short: ""
 publication_types:
-- "3"
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Preprint / Working Paper
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+# 7 = Thesis (v4.2+ required)
+# 8 = Patent (v4.2+ required)
+- "2"
 publishDate: "2020-04-12T18:57:29Z"
 slides: 
 summary: In the present paper we have conducted studies on seismological properties using worldwide data of deep earthquakes (depth larger than 70 km), considering events with magnitude $m\geq4.5$. We have addressed the problem under the perspective of complex networks, using a time window model to build the networks for deep earthquakes, which present scale-free and small-world features.
