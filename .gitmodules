@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/psloliveirajr/psloliveirajr.github.io
+	url = https://github.com/psloliveirajr/psloliveirajr.github.io.git
 	branch = master
 [submodule "psloliveirajr.github.io"]
 	path = psloliveirajr.github.io
