@@ -6,7 +6,7 @@ address:
   postcode: ""
   region: ES
   street: 
-all_day: false
+all_day: true
 authors: 
 - OLIVEIRA JUNIOR, P. S. L.
 - MACHADO, B. A.

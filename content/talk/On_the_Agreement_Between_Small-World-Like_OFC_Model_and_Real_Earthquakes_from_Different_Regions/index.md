@@ -7,7 +7,7 @@ address:
   postcode: ""
   region: BA
   street: 
-all_day: false
+all_day: true
 authors: 
 - OLIVEIRA JUNIOR, P. S. L.
 - CONCEICAO, J. R. S.

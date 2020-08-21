@@ -6,7 +6,7 @@ address:
   postcode: ""
   region: RJ
   street: 
-all_day: false
+all_day: true
 authors: 
 - OLIVEIRA JUNIOR, P. S. L.
 - CONCEICAO, J. R. S.
@@ -33,7 +33,7 @@ tags:
 - Complex Networks
 - Complex Systems
 - Earthquakes
-- Computacional Model
+- Computational Model
 
 title: "Poster: Introduction of Small World Characteristics in the Olami-Feder-Christensen Model"
 url_code: ""
