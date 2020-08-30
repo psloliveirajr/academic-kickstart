@@ -1,5 +1,5 @@
 ---
-abstract: In the present paper we have conducted studies on seismological properties using worldwide data of deep earthquakes (depth larger than 70 km), considering events with magnitude $m\geq4.5$. We have addressed the problem under the perspective of complex networks, using a time window model to build the networks for deep earthquakes, which present scale-free and small-world features. This work is an extension of a previous study using a similar approach, for shallow events. Our results for deep events corroborate with those found for the shallow ones, since the connectivity distribution for deep earthquakes also follows a q-exponential distribution and the scaling behavior is present. Our results were analysed using both, complex networks and Nonextensive Statistical Mechanics, contributing to strengthen the use of the time window model to construct epicenters networks. They reinforce the idea of long-range correlations between earthquakes and the criticality of the seismological system.
+abstract: In the present paper we have conducted studies on seismological properties using worldwide data of deep earthquakes (depth larger than 70 km), considering events with magnitude greater than or equal to 4.5. This work is an extension of a previous study using a similar approach, for shallow events. We have addressed the problem under the perspective of complex networks, using a time window model to build the networks for deep earthquakes. These networks present scale-free and small-world features, contributing to strengthen the use of the time window model to construct epicenters networks. The results for deep events were analyzed using Nonextensive Statistical Mechanics and they corroborate with those found for the shallow ones, since the connectivity distribution for deep earthquakes also follows a $q$-exponential distribution and the scaling behavior is present. Our findings reinforce the idea of long-range correlations between earthquakes and the criticality of the seismological system.
 authors:
 - FERREIRA, D. S.
 - RIBEIRO, J.
@@ -8,9 +8,9 @@ authors:
 - FREITAS, R. P.
 - PAPA, A. R.
 
-date: "2020-04-12T18:57:29Z"
-doi: ""
-featured: false
+date: "2020-12-15T00:00:00Z"
+doi: "https://doi.org/10.1016/j.physa.2020.125146"
+featured: true
 image:
   caption: ''
   focal_point: ""
@@ -18,8 +18,10 @@ image:
 links:
 - name: ArXiv
   url: https://arxiv.org/abs/2004.05674
+
 projects:
 - real earthquakes
+
 publication: ""
 publication_short: ""
 publication_types:
@@ -33,9 +35,11 @@ publication_types:
 # 7 = Thesis (v4.2+ required)
 # 8 = Patent (v4.2+ required)
 - "2"
-publishDate: "2020-04-12T18:57:29Z"
+publishDate: "2020-08-29T00:00:00Z"
 slides: 
-summary: In the present paper we have conducted studies on seismological properties using worldwide data of deep earthquakes (depth larger than 70 km), considering events with magnitude $m\geq4.5$. We have addressed the problem under the perspective of complex networks, using a time window model to build the networks for deep earthquakes, which present scale-free and small-world features.
+
+summary: In the present paper we have conducted studies on seismological properties using worldwide data of deep earthquakes (depth larger than 70 km), considering events with magnitude greater than or equal to 4.5. This work is an extension of a previous study using a similar approach, for shallow events. We have addressed the problem under the perspective of complex networks, using a time window model to build the networks for deep earthquakes.
+
 tags:
 - Earthquakes
 - Complex networks
